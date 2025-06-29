@@ -15,7 +15,7 @@
 
 <h2>💻 Technical Skills</h2>
 
-- Full Stack Development: C#, Blazor, Razor, HTML, CSS, JavaScript, SQL  
+- Full Stack Development: C#,PHP, Phyton, Blazor, Razor, HTML, CSS, JavaScript, SQL  
 - Tools & Tech: Git, Bootstrap, Microsoft SQL Server, Linux Basics  
 - Platforms: Windows, Linux (Red Hat)
 
